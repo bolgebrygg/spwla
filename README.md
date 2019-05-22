@@ -1,4 +1,4 @@
-# spwla / .spt file converter spooler wile well log data 
+# spwla / .spt file converter spooler file well log data 
 Spwla file converter that converts porosity and core gamma ray data to excel files: Handles also line based spwla spt files
 
 This excels VBA macro  reads 98% of the old .spwla , spt files that  were used in various variants to record core porosity and permeability data in the North Sea (Uk/ Norway).
