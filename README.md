@@ -5,4 +5,6 @@ This excels VBA macro  reads 98% of the old .spwla , spt files that  were used i
 It also converts the core gamma ray to an easy readable excel file.
 Should the conversion fail it is most often because the break line commands are unconventional . you can inspect and fix this in notepad++
 
-all norwegian public core porosity and permeability data (1400 wells) can be downloaded here[ https://drive.google.com/drive/folders/1dUTsx1AvqGzqMTv9FFjgJspv5V-9DfOU](https://zenodo.org/record/4723018)
+all norwegian public core porosity and permeability data (1400 wells) can be downloaded here[ https://zenodo.org/record/4723018](https://zenodo.org/record/4723018)
+
+
